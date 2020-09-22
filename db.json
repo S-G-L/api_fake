@@ -1,15 +1,6 @@
 {
   "estudiantes": [
     {
-      "id": 1,
-      "documento": "187-05-6087",
-      "nombre": "Damiano",
-      "apellido": "Levi",
-      "genero": "Male",
-      "correo": "dlevi0@livejournal.com",
-      "fecha_nacimiento": "12/16/2010"
-    },
-    {
       "id": 2,
       "documento": "365-67-0271",
       "nombre": "Noah",
@@ -449,16 +440,25 @@
       "genero": "Female",
       "correo": "djoberne1d@gnu.org",
       "fecha_nacimiento": "5/12/2013"
-    }
-  ],
-  "materias" : [
-    {
-        "id" : 1,
-        "nombre" : "Biología"
     },
     {
-      "id" : 2,
-      "nombre" : "Español"
+      "documento": "1004776364",
+      "nombre": "Sebastian",
+      "apellido": "Gallego",
+      "genero": "Masculino",
+      "correo": "elsebasgallego2528@gmail.com",
+      "fecha_nacimiento": "28/07/2002",
+      "id": 51
+    }
+  ],
+  "materias": [
+    {
+      "id": 1,
+      "nombre": "Biología"
+    },
+    {
+      "id": 2,
+      "nombre": "Español"
     }
   ]
 }
